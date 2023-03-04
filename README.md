@@ -1,5 +1,3 @@
-# KeybroHub
-Script
 local Games = {
     [25 = "KeybrewHub/main/ProjectSlayers";
     [24] = "KeybrewHub/main/DemonSoul";
